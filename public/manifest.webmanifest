@@ -1,0 +1,19 @@
+{
+  "name": "AccentFlow: American Accent Training",
+  "short_name": "AccentFlow",
+  "description": "30-Day Guided Mobile-First General American Accent Training",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./"
+}
